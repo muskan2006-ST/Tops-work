@@ -1,0 +1,44 @@
+Task 1. SDLC phases In daily Use App :- The Instagram SDLC phases is describe here.
+		 1. Requirement analysis:- Instagram is new version of online app for users. It is for enjoy users free time.
+		       		  Users have to download the App and create profile to post photos and reels.
+			       	information developer have to collect from customer and from study.
+		 2. System Des :- Instagram is for follow other people and make followers. System is design by followers can browse 
+			          our profile ,reels, massages and posts .They can like , share and comment on  pictures.
+		3. Development :- After the requirement and system design phase its time to understand the features of Instagram
+				  and filter types . Instagram is develop for users enjoy so but sometime its feed is depend on user's
+				  mood. when user is happy  the feed is also full of happy reel.  
+		4. Testing :- Instagram is design for users. But sometimes many errors and bugs having in Instagram features,
+			      functions , create post and reels , profile settings, so that the software tester is testing the 
+				the Instagram  app before deployment.
+		5.Deployment :- Test the all function of Instagram its time to deploy the app for users. so that all users check and 
+				use the Instagram for enjoyment and create reels and post. 
+		6.Maintinance :- We have to maintain all features of Instagram. We have to update all features in Instagram.
+				Instagram new version update. Daily use the app for find errors and bugs doesn't having in app.
+
+Task 2.  Differences Of SDLC Models 
+                       
+ 	1. The name of topic		Waterfall Model 		Agile Model		      Spiral Model
+	                                             
+	1. Flexibility 			Water Model is                 Agile Model is Iterative.       Spiral Model is Also Iterative.
+					a sequence model of SDLC.      Agile model depend on customer  This is flexible model. SDLC  
+					So This is not flexible model. requirements. Agile model is for phase is running . Builds are
+					The Requirement is fixed.      done with customer collab.       dividing in many pares.
+					For Short project. 
+	2.Customer Feedback		Waterfall Model is long        Agile is working software so     
+					process of SDLC. so the        that customer feedback is find 
+					customer feedback is coming     on process time.
+					late.
+	3.Risk Handling			Water fall model is for short	Agile is loop model so the risk  Spiral is high level of Risk    
+					is low level. 			on that time.			complex and long project.
+	4.Real world examples           Flip kart is online app so that  The Agile model is use for     Flipkart is a high level cost 
+	  App 				flexibility is not possible .    Zomato . Zomato gives Fast     app. 
+									 customer delivery and feedback.
+
+Task 3. Describe A Set of Entry And Exit Criteria (Flipkart)
+			1. Entry Criteria:- 
+				(A) User Authentication Status: Flipkart is for online shopping. The use have to login app  
+				    				and create Account on Flipkart. 
+				(B)product Availability :- The Number of Customers is very large on online app. so that the
+							   products availability is most important for deliver  product to customers.
+			2.Exit Criteria :-
+				(A)	
