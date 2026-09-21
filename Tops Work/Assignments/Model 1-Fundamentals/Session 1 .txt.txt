@@ -1,0 +1,71 @@
+Task 1 : Food delivery app Architecture Diagram : 
+                    				This Diagram Shows the  Components of App like Zomato and Swiggy. The Components
+ like Users, Driver ,backend ,Payment, Restaurants. 
+                                          +-----------+                 +---------+
+                                          |  User App |                 | Driver  | 
+					  +-----------+			+---------+
+                          (brows manus, order place)                     (order deliver on time, order give on location)             		    |
+					       |---------+++++++------------|
+ 							    |
+						       +----------+
+			                               | Backend  |   
+                                                       +----------+
+                                                             |
+                                                  (food quantity, stock Manage)                        
+                                        +-----------+                    +--------+
+                                        |Restaurant |                    |payment |
+					+-----------+                    +--------+
+                                     (order Manage, Maintain             (cash payment or online, Manage payments) 
+                                      Food Quality)    
+Task 2 :- Testing activities of any App of Daily use:-
+						There are many defects having in development of products. We Use Many testing process 
+						and types of testing in SDLC. Here we describe the testing types of Flipkart.
+		1. Functional testing :- The functionality process of Flipkart is high level testing. We have to know about function
+					of flip kart.(e.g. login ,logout, registration, )
+ 		2. Notification Testing :- When the flip kart app send message to their customers for discount and sell or offers.
+					flip kart is a E-commerce app . so all the customers notify on time . (e.g. update, selling 
+					offers, limited time of discount)
+		3.System testing :- The developer of Flip kart create the system after collect the information of customer requirement.
+				 We have to check the systematic process of Flip kart.(e.g. loading time, response time, no of handling
+					customers).
+		4. Integration or Payment Testing :- integration means the flip karts method of add to cart that customer select the product
+							and add to cart for purchasing. payment testing is for cash payment or online 
+							payment. 
+		5. Speed and security Testing :- flip kart is a online shopping so that this is high level risk place or payment
+                                               product quality. Delivery speed Maintain, inform customer to delivery time update daily.
+Task 3:- Importance of testing :- 
+				When developer create a software or product many bugs and errors having in software. There are many types 
+				testing . Testing is important for customer satisfaction, fulfill customers requirements.
+		1.Requirement Analysis stage:- 
+				we have to understand that what customer actually want . we have to collect the information of software
+				or product. Customers requirements satisfaction is very important in SDLC.	
+				The IRCTC website is for passengers seat availability. Users download the app and login their profile , 
+				password and registration.
+		2.System Design stage:-            
+				IRCTC website is approve by government. so this system is develop perfectly for passengers or
+				users. Time of booking, terms and conditions, browse on all types of screen , seat availability).
+		3. Development stage:-
+				we have to collect all information of requirement of passengers to develop the website.
+				IRCTC is develop for confirm ticket booking of passenger so they can't go railway station 
+				and stand in line-to-line for tickets. 
+		4. Testing stage :- 
+				After develop the IRCTC website and app for users its time to check function and non function
+				work of software. sometimes We develop the software there is many errors having in the software.
+				Many Developers are design the website and test the software to confirm that if any problem in 
+				software. 
+		5.Deployment stage:- The IRCTC is deploy by websites and app. So users or Passengers can check ticket booking online.
+				     Online booking shows the booking numbers and seat numbers. Also payment process is online in 
+				     IRCTC App. 
+				     
+Task 4. Objectives and Purpose of Testing :-
+				There are many types of objectives and purpose of Testing. Testing is the phase of SDLC.
+				Sometimes testing and Development happening same time. Testing is most important part of 
+				SDLC. Here We show the Testing objectives of launching a  new music streaming features in 
+				Spotify.  
+		1.Find Bugs And Errors:- When we develop a feature of Spotify We need to check it how it works and find any if any 
+					error having  in Spotify feature.
+		2.Ensure Correct functionality :- There are functions in feature of Spotify for use of Customers. We have to check 
+						the correct functionality of Features  like Audio streaming, volume ,
+						advertisement time. 
+		3. Improve Quality :-  We have to Improve Spotify features and functions specific for users. (e.g. song speed, 
+					new songs, sound under customers satisfaction).  
