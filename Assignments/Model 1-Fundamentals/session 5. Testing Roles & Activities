@@ -1,0 +1,30 @@
+Task 1
+Zomato app Testing tasks
+QA tester would do 3 specific tasks
+1) when developer develop the Zomato app That time QA have to test the login process and  also authentication process of the app.
+2) QA have to check the food description and food price.
+3) QA have to test the maneu list and restaurent location and time by custmer satisfy.
+QC (Quality Control) 3 specific tasks
+1) Befor the zomaro app execute or realese  the Qc will have to checkout or test the product like pizza, burger, and menu of the zomato app.
+2) Qc have to check the food quality and food correct brows on zomato app.
+3) QC have to check that login process ,sign in and payment process .
+Task 2
+Comparing the QA and Qc Roles and Reponsibilities
+QA 
+QA focus on process improvement.
+QA is to ensure the quality in the process of create the product.
+QA involves establising standards ,  methologies and procedures.
+QA conducted throughout the software development life cycle.
+QC 
+QC focus on product Quality.
+QC have to find defect and fix defect in the software product before release.
+QC involves actual testing and inspection on the product.
+QC coducted after development during the testing phase.
+Task 4
+List of the bugs that developer would miss in the process of SDLC.
+1) when we book the ticket there is an  error of sign in because of  username and passward.
+2) we find that the app has defect or  problem of daily reveiw and update.
+3) sometime the ticket app has no fix time of loading the ticket window. 
+
+
+
