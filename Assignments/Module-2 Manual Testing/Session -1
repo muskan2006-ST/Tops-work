@@ -9,9 +9,15 @@ Task 1 -  Find bugs in Zomato App.
 
 
 
-Task 2-
+Task 2- Difference between a error ,a bugs and a defect an example of IRCTC App.
+Error :- Error means that developer and designer make  Mistakes during the development process.
+        The developer use the test case is not equal to the customer requiremnets. 
+Example:- when we use IRCTC app we have an error of create profile.
 
-
-
-
+Bugs:- A Bugs means functional problem and logic problem in software.
+       The software's funcion is not working according to functional requirement.
+Example:- The IRCTC website is not login with other device by same username
+Defect :- The Defect means difference between epectetions and reality .
+          sometime the developer create the login  button but now it is not working.
+Example :- WE have to update and reiew daily otherwise website need to restart the app by username.
 Task -3
