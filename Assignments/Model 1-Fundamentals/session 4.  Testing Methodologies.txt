@@ -1,0 +1,69 @@
+Task 1.  Test scenarios of Instagram and define in Function or Non Functional
+	   1) Authentication Login :- we have to test that the user have create the account and login and signup with Number or OTP .
+	   2)Profile Management  :-  Test users profile creation and profile manage , account privacy private or public.
+	   3)Feed, reels and Post :- we have to find that users have create and post their reels without any error and check that reel brows  perfect on followers screen . like ,comment 
+					and share the reels and feed depend on their mood.
+	   4)Stories :- We have to test the users have create account and post their reels and stories on their account. photos and reels share on stories without any error.
+	   5)Direct Massages and Calls:- the user can follow the other account and send msg and call them anytime. that all we have  to check and test and fix the errors and bugs.
+
+	                                          Functional   	                   |                     Non Functional
+					1)authentication Login                     |           1) Feed ,reels and post
+					2)profile Management                       |           2) Stories
+				        3)Direct Massages and calls
+
+Task 2.  classify into Functional or Non Functional
+					
+	     Name of Scenarios          		Requirement Name               why?
+                
+	1)User can search Restaurants                 Functional              The user can search restaurant and order food. 
+	2)App loads home screen in under 2 seconds    Non Functional          The loading times is very important for screen to search anything.
+	3)payment gateway processes Payments          Functional              Tester have to check the payment process is pass of fail for payments.
+	4)App support 5 languages                     Non functional          There are many languages having in app system to support users.  
+	5)Order tracking updates in real-time         Functional              Order track the correct location and real time to the customer.
+	6)App prevent Duplicate Orders                Functional              The user deserve a best quality of product so that the system check no 
+										duplicate orders send to customers.  
+	7)UI Update to dark mode                      Non Functional          Its depend on user so that they can change the screen mode and background.    
+	8)Password reset via OTP                      Functional              The customer can change the password with OTP .
+
+Task 3. Testing Principles
+			1) Testing shows the presence of Error : Testing is find Errors in software or product but can not prove that now 
+								 the software is free from error.
+			2) Early testing saves time and money  : Sometime The QA is find errors and defects in software during the development
+								 process  so that they save time.
+			3)Exhaustive Testing is Impossible     : The tester find defects and fix them . This is impossible because of time limit,
+								 cost and infinite requirements.
+			4)Define clustered                     : Many more time the defects find in small products. like the 80% of defects find in 
+						                 20% part of software  or product.
+			5)pesticide paradox                    : The developer have to update and review the software anytime.
+			6) Testing is Context Depend           : The social Media , bank management and E-commerce all testing are 
+								different sides.
+			7)Absence of Error Fallacy  	       : Finding and Fixing the defects.	
+								 No requirement Fulfill.
+	Real App Testing 
+		1)Testing Shows The presence of error :- The tester find that the Instagram app not working well like login system has error
+							  Tester find that presence of error but the Instagram is not free from login error.
+		2) Testing Is Context Depend         :-   The Instagram is social media app so that the way of testing is Different from other 
+							testing processes.
+
+Task 4. Test scenarios for movie ticket booking app.
+		1.User can search seats :- 1) Functional testing
+					   2)Justification:- User can search seats for train or flight booking. so this is the software or app 
+							functional testing that tester have to test.
+		2.App handles 10000 users at once:-1)performance Testing
+						   2)justification:- The app performance like it handles 10000 of users at once. The users can
+									brows seat availability and book tickets.
+		3.Ticket confirmation email is sent :-1)Integration testing
+						      2) Justification :- The communication between the user and app server that the booking is 
+									confirm. That Msg send to user on the booking app.
+		4.UI is Accessible for visually inspired:- 1)Accessibility  testing( Usability testing)      		  
+							   2)Justification:- The 
+
+
+		5.payment fails gracefully:-1)Negative Testing
+					    2) Justification :- when the user try to book the ticket and the payment process is fails that sign
+								payment is  negative for booking tickets.
+		6.App recovers from server crash :-1) Reliability Testing
+						   2)Justification:- When the user have any problem of hacking or loading and crash server that the 
+									server needs to recovery. So that the reliability testing recovers the 
+									system or app.     
+  

@@ -1,0 +1,13 @@
+Task 1 SRS Document for a popular app PAYTAM.  And conditions Derive for QA Tester. 
+		1. Functional Requirement Section.
+						1.User Registration :- first of all user have to install app and register mobile number, and code or OTP.  
+
+						2.Authentication and security:- Users have to login ,and sign up the Paytm app and create their accounts. 
+						3.Money add to Wallet:- Paytm handle the credit and debit card online and add the bank accounts online. 
+						4.Transaction $ p2P Payments:- Money Transfer by Mobile Number, UPI Id , and IFSC code . 
+						5.Bills And Recharges :-Paytm pay the Electricity, water, home Rent, bills online. And also Mobile recharges having online.  
+						6.Merchant Payments:- Merchant payments means online or offline payments having in Paytm software app. online by Scan the QR code.
+						7.transaction History And Passbook:-payment gives the transaction history of all transactions. sometimes we forget the amount so this will help 
+											us to find our last payment. 
+						8.Error Handling:- Tester have to check and Handle the payment system and network problems. 
+Task 2 
