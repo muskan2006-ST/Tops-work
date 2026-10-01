@@ -1,18 +1,14 @@
 Task 1 -  Find bugs in Zomato App.
+1) Such as broken Image
 1) The Gajanand pauva House is not show the picture of menu verywell.
-2) 
-
-
-
-
-
-
-
-
+2) Misaligned Image
+1) The App write a name of collection but the Image is burger .
+3) Non Working Link
+1) The privecy polisy link does not work it take 5 seconds to open the file.
 Task 2- Difference between a error ,a bugs and a defect an example of IRCTC App.
 Error :- Error means that developer and designer make  Mistakes during the development process.
         The developer use the test case is not equal to the customer requiremnets. 
-Example:- when we use IRCTC app we have an error of create profile.
+Example:- when we use Instagram app we have an error of create profile.
 
 Bugs:- A Bugs means functional problem and logic problem in software.
        The software's funcion is not working according to functional requirement.
@@ -21,3 +17,31 @@ Defect :- The Defect means difference between epectetions and reality .
           sometime the developer create the login  button but now it is not working.
 Example :- WE have to update and reiew daily otherwise website need to restart the app by username.
 Task -3
+Here i exaplain about whatsapp app.
+1) Human Error
+1) I download a whatsapp and try to login it but it has defect of not respoding OTP.  
+2) WHen I Call my friend but he doen not receive the call it is human error. It is not app or software defect.
+3) When I create a group chat with my friends but the group is not working well.
+2) Technical Limitation
+1) when i go for visit the fort there is a problem of network. so that it is technical error.
+2) When I try to update my app but the whatsapp does not accept my OLd passward so that I create a new password
+  and it send me the new OTP.
+3) Process Gap
+1) The system loading very much time to send my PDF and important project file to other person.
+2) The user can search for number but the process is loading time it hurts them.
+Task 4
+The food delivery app release Risk.
+1) Securiry Risk :-The security risk for the customers to create user id and passward or OTP and that is  secret code between
+                  user and app manager. the user can attech his UPI ID or Mobile Number. If the syatem copy the customers profile
+                  then customer is not use this app again.
+2)Usability Risk:- swiggy App has not over loading time to search for food itemes . The app handles many more customers order in a day.
+                  If the system has a problem of not deliver the order on time then the customer will not using this app again. 
+3)Performance Risk:- sometime The swiggy app does not recieve orders like festivales or holiday and raninig day so that customer not 
+                     satisfy by the perfromance of the app.
+Task 5
+1) Defect
+1) The ' Book Now' button does not respond on mobile. ( IT Is defect of the coding that name of button not respond).
+2)There is no logout option. ( It is functional problem of product so that the tester have to check it).
+2) Risk
+1) The app sometimes loads slowly during IPL match. ( IT effect on users future problem and user will not book tickets for match).
+
