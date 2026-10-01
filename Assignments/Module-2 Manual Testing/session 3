@@ -1,0 +1,13 @@
+Task 1
+V Model Diagram
+The right side is Tester                   The Left side is Developer
+1) Acceptance Testing                      1) Requirement Analysis
+1) System testing                          2) System Design
+3)Itegration testing                       3)Architecture Design                     
+4) Unit Testing                            4) Module Design
+Task 2
+SDLC phase                Paytm App SDLC phase
+1) Requirement             we have to collect paytm app requirement like login, logout, sign in, and download app and create app profile.
+2) Design                  we have to design app acording to requiremets and create the app image that atract the customers and complete 
+                            the app. 
+3) Development                                         
