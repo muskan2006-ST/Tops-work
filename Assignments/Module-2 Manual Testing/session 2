@@ -13,4 +13,39 @@ Test laeder
 Role in   Release cycle
 The leader solve the problem of that cycle is tubeless and how it will works in daily use of customer.
 Task 2
+The paymt app is for pay our all payments online. first of all the QA is prevent approach focus on preventing defects by improving 
+the development of paytm app. and find defect in login process and check quility in process uesd to create the paytm.  QA ensure the
+the team follow the requirement of customers add their cards ,UPI ID , Bank details, profile informations and test the whole system
+of paytm App during the development process. The QC is identify defects in final paytm app. QC fine defect before release the app.
+QC is find and correct the defects.QC check the paytm payment process , loading time, respond time, and send compelte transaction
+history to users.
+Task 3
+Difference Between Testing and Debugging when a bug found in a Flipkart style shopping cart feature.
+Difference                        Testing                                                  Debugging
+1) Add favourite products     Tester  is find the bugs and error in add         Debuggging is correcting the bugs that teater found 
+                              favourite produts.                                during testing.
+2) price details             Testing is to check the feature of                  Debugging is fix the all defect of payment process.
+                              price details .
+3) Loction for deliver        Testing is find that users loction is              After the testing the developer fix the defect of  
+    the product                  not wrong and old address of user.                  address of user.  
+4) Saving Zone               Tester test this feature and check the details of      Debugging is  write correct details of offers during 
+                                offers during festivales.                                festivales.
+Task 4
+Document for New feature in a food delivery app swiggy.
+1) Test plan Id :- TP_SFD_TRACK _202
+2) Feature Description:-
+    1) Purpose:- This Feature is Create for users sastifation for this app. User Can easily order their food. Improve the App Quality.
+    2) Key Actions:- This feature for deliver the food on time and save customers time .
+    3) security:-  We have understand that customer is want best quality food from us. so we have to deliver best quality food to our 
+                    customers.
+3) Test scope:- 
+4) Roles and Responsibility:- 
+    1) QA ( Quality Assurance) :- QA is for prevent focuse on improving the development and testing processes.
+    2) QC(Quality Control)  :-  QC is for focuse on identifying defects in the final app.
+    3) Test Manager        :- Test manager plam the process of develop the swiggy app. and create the test case, test strategy.
+    4) Test Lead            :- Test lead Assist the manager in palnning and coordination. lead the QA team in day to day 
+                                testing activities.
+5) Test Environment:-    
+6) Test Deliverable:-
+
 
