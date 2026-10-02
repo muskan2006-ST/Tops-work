@@ -1,13 +1,45 @@
 Task 1
 V Model Diagram
-The right side is Tester                   The Left side is Developer
-1) Acceptance Testing                      1) Requirement Analysis
-1) System testing                          2) System Design
-3)Itegration testing                       3)Architecture Design                     
-4) Unit Testing                            4) Module Design
+The right side is Developer                 The Left side is Tester
+    \                                                        /
+     \                                                      /
+1) Requirement Analysis                 1) Acceptance Testing
+       \                                                /
+         \                                             /
+   2) System Design                   2) System Testing
+           \                                        /        
+            \                                      /
+      3)Architecture Design           3)Integration testing                     
+               \                                 /
+                \                               /       
+          4) Model Design             4) Unit Testing
+                       -|---Coding----|--
+Devide Roles between Developer and Tester  
+1) Developer
+        1) Requirement Analysis  :- Developer collect the requirements from customer and develop the product.                      
+        2) System Design         :- After  understanding of Reqirement developer design the system of product.                                                 
+        3) Architecture design:   :- The whole product is design here . The develop work with hardwork here.                 .
+        4) Model Design           :- This is fixed requirement. Developer design per unit in model design.                                    
+2) Tester
+        1)Acceptance Testing     :- Tester test the during the development process .
+        2)Systam Testing         :- System testing is for system design step. whether the tester test the whole syatem of product.
+        3)Inetgration Testing    :-  Developer design the architecture then tester test the integrate part of product. 
+        4)Unit Testing            :- Unit testing is for each model testing.
 Task 2
 SDLC phase                Paytm App SDLC phase
 1) Requirement             we have to collect paytm app requirement like login, logout, sign in, and download app and create app profile.
 2) Design                  we have to design app acording to requiremets and create the app image that atract the customers and complete 
                             the app. 
-3) Development                                         
+3) Development            Developer collect all requirements and develop the app acordinf to customers need. 
+4) Testing                After develop the app tester have to test the paytm app system ,units, module test and integration testing. 
+5) Deploymnet             Tester test the app then execute the next version of paytm and execute test cases.        
+6) Maintenance            Maintenance is for tester find defects in paytm and write the summary of defects , error and bugs then developer
+                            fix all defects.
+Task 3
+   Testing Activities in Zomato App.
+1) Performance Testing  :- Performance Testing is for app laoding time, app response time, order tracking , order place informations.
+2) Security Testing     :- The zomato app is giving security of UPI ID , online or offline payments, and secret code for cuustomer use.
+3) System Testing       :- The Tester have to check the system of app , menu of food products, price list, drodown list, etc.
+4) Usability  Testing   :- Customer use this app for order food . App qaulity attract the users to order food on this app.
+5) Unit Testing          :- Unit testing is for test the each model of zomato app.  
+4) 
