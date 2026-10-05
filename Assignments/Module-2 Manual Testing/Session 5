@@ -1,1 +1,17 @@
-
+Task 1
+STLC Phases  in Paytm
+1) Requirement Analysis : we have to find requirements from user to what he actually want. And we have to analysis on requirement.
+2) Test plan  :- We have to planning for process and prepare test cases. 
+3) Test case development :- Test Lead have to design  test case that use in PAYTM app development.  
+4) Test Environment setup :- Tester have to find the tools and software for environment setup of PAYTM app development process.
+5) Test case Execution   :- Test lead develop the test case and tester execute that test cases in development process of PAYTM.
+6) Test Closer           :- Tester find bugs and defects and then tester create a summary of that and send it to developer.
+ Task 2
+STLC of Flipkart - style login module
+1) Requirement Analysis :- we have to find the requirement of login module.   
+2) Test plan             :- Test plan for login module like password, username or mobile number, etc. 
+3)  Test case Design     :- Test lead design the cases acording to test plan and requirements. 
+4) Implementation        :- Test lead develop the test case and tester set the environment for(tools ,software) development of login module.
+5) Test case execution   :- The Tester execute the test cases for  develop the login module. 
+6) Defect and Reporting  :- The Tester find defect or bugs in development process of login module and create the report of all defect.
+7) Test closer           :- Tester create the report for developer and after fix the defects its time to close the test process.
