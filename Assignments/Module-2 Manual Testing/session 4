@@ -1,1 +1,27 @@
 Task 1
+Testing Activities For Instagram App
+1) Functional Testing:- The tester test the function in  Functional testing. (e.g. login, logout, sign in, profile creation)   
+2) System Testing    :- The whole system of instagram send messages, calls, story upload , reels brows,  are test on System testing. 
+3) Unit testing      :- The model of instagram app is test in unit testing process. Each part of instagram is test in unit testing. 
+4) Integration Testing:- The instagram app is for story upload and reels so that the integration testing test the inter defect of app.
+5) Acceptance Testing  :- Acceptance Testing is for validate the software is ready to release. Before realese the app the tester test the
+                          instagram app by ALPHA testing.
+6) 
+
+Task 2
+Create Responsibilty Matrix
+Roles and responsibility in Flipkart style Shopping Cart Feature
+
+Task 3
+Job Discription on Test Leader
+We are hiring a person for The role of Test Leader in our BookMyshow  Movie bokking feature. We want that person who focus 
+on his roles and respisibilities, and create healthy environment .The test leader is performance best in his role. And take 
+best dicision on feature making process.
+Task 4
+Least 5 Testing Activities for " Dark Mood" toggle in music app.
+1) Test Plan   :- Test Manager create the plan but the test leader assist the manager in Test planning.
+2) Test Strategy :- Test Leader is manage test srategy. Test leader define the scope of Drak mood in music app. 
+3) Test case design :- The Tester is create the test case design for syatem setting.
+4) Test case execution :- Tester test the  continue music is playback in app feature that is test case execution.
+5) Defect reporting :- Tester test the "dark mood" toggle and find some defects then the tester write a defect report to developer.
+
